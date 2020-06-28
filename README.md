@@ -31,7 +31,7 @@ PHP >= 7.0.0
 
 ![screencapture-localhost-8000-products-cat-id-8-2020-06-25-01_05_50](https://user-images.githubusercontent.com/49524713/85948761-792e0900-b94a-11ea-9487-683485e6e4e7.png)
 
-![screencapture-localhost-8000-cart-2020-06-25-01_02_42](https://user-images.githubusercontent.com/49524713/85948778-8b0fac00-b94a-11ea-8601-e43ca6b3e386.png)
+![screencapture-localhost-8000-cart-2020-06-25-01_02_42](https://user-images.githubusercontent.com/49524713/85948778-8b0fac00-b94a-11ea-8601-e43ca6b3e386.png),
 
 ![screencapture-localhost-8000-home-2020-06-25-01_02_13](https://user-images.githubusercontent.com/49524713/85948784-9531aa80-b94a-11ea-8a6b-bb3012c5620b.png)
 
