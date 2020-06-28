@@ -1,5 +1,3 @@
-
-
 ## Bootsrap Responsive Online Food Restaurant!
 
 Current versions
@@ -19,7 +17,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 ### Server Requirements
 PHP >= 7.0.0
 
-## Installation in 3 easy steps
+## Installation in 4 easy steps
 1. Git clone project
 2. Set dbname, username and password in .env for your SQL
 3. Seed database
