@@ -37,6 +37,6 @@ PHP >= 7.0.0
 
 ![screencapture-localhost-8000-home-2020-06-25-01_02_13](https://user-images.githubusercontent.com/49524713/85948784-9531aa80-b94a-11ea-8a6b-bb3012c5620b.png)
 
-![scree](https://user-images.githubusercontent.com/49524713/85948913-71bb2f80-b94b-11ea-8541-5c5a4ecb8da5.png)
-
 ![screencapture-localhost-8000-contact-2020-06-28-14_14_01](https://user-images.githubusercontent.com/49524713/85948916-77b11080-b94b-11ea-9218-0e3cdc62d096.png)
+
+![scree](https://user-images.githubusercontent.com/49524713/85949135-e17dea00-b94c-11ea-8235-9b53813edb6d.png)
