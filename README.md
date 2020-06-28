@@ -1,6 +1,6 @@
 
 
-## Bootsrap Responsive Online Shop with beautiful metro style administration!
+## Bootsrap Responsive Online Food Restaurant!
 
 Current versions
 * Laravel Framework 6 (https://laravel.com/)
@@ -13,7 +13,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 ## We support following features
 1. Bootstrap responsive
 2. Blade template usage
-3. Multi Language (administration and public page) 
+3. Multi Language (public page) 
 4. Products with tree structure categories and tags
 
 ### Server Requirements
